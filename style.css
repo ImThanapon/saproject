@@ -1,0 +1,55 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+@import url('https://fonts.googleapis.com/css2?family=Mitr:wght@200;300&display=swap');
+
+
+.font-set{
+    font-size: medium;
+    font-family: 'Mitr', sans-serif;    
+    
+}
+
+.bg-set{
+    height: 800px; 
+    background-image: linear-gradient(to bottom right , #8470FF, #FFB6C1);
+    background-repeat: no-repeat;
+    
+}
+.bg-index{
+    background-image: linear-gradient(to bottom right , #8470FF, #FFB6C1);
+    background-repeat: no-repeat;
+    
+}
+
+.shadow-set{
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-radius: 13px;
+
+}
+
+.form-log{
+    width: 500px; 
+    margin: auto; 
+    margin-top: 5%;
+    
+}
+.form-payment{
+    width: 500px; 
+    opacity: 1; 
+}
+.choice-methods{
+    padding-left: 20px;
+    font-size: medium;
+
+}
+.picture-profile{
+    width: 20 px; 
+    height: 20 px;
+}
+.status-alert{
+    width: 5 px; 
+    height: 5 px;
+}
+
